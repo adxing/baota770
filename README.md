@@ -1,5 +1,4 @@
 # baota770
----
 ```
 Centos安装脚本：
 yum install -y wget && wget -O baota770.sh https://ghproxy.com/https://raw.githubusercontent.com/adxing/baota770/main/baota770.sh && sh baota770.sh
