@@ -1,12 +1,11 @@
 # baota770
-
-...
+---
+```
 Centos安装脚本：
 yum install -y wget && wget -O baota770.sh https://ghproxy.com/https://raw.githubusercontent.com/adxing/baota770/main/baota770.sh && sh baota770.sh
 
 Ubuntu/Deepin安装脚本：
-wget -O baota770.sh https://ghproxy.com/https://raw.githubusercontent.com/adxing/baota770/main/baota770.sh && sh baota770.sh
-
+wget -O baota770.sh https://ghproxy.com/https://raw.githubusercontent.com/adxing/baota770/main/baota770.sh && bash baota770.sh
 
 
 升级(降级)到7.7版本命令：
